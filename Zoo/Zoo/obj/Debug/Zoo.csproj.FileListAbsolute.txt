@@ -1,0 +1,7 @@
+C:\Users\Никита\source\repos\Zoo\Zoo\bin\Debug\Zoo.exe.config
+C:\Users\Никита\source\repos\Zoo\Zoo\bin\Debug\Zoo.exe
+C:\Users\Никита\source\repos\Zoo\Zoo\bin\Debug\Zoo.pdb
+C:\Users\Никита\source\repos\Zoo\Zoo\obj\Debug\Zoo.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\Zoo\Zoo\obj\Debug\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\Zoo\Zoo\obj\Debug\Zoo.exe
+C:\Users\Никита\source\repos\Zoo\Zoo\obj\Debug\Zoo.pdb
